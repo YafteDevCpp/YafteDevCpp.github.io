@@ -1,10 +1,10 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
+name: "Uriel Yafté Sánchez Almaguer"
+designation: "Plasma Physicist"
+location: Mexico, Mexico City
 website: "http://tafutza.hn/kos"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+Físico egresado de la Facultad de Ciencias, UNAM, con experiencia en métodos numéricos y modelado computacional aplicado a la investigación científica, especialmente en fusión nuclear controlada y mecánica de fluidos. Familiarizado con análisis de datos experimentales, automatización tecnológica, y programación de alto rendimiento en entornos Linux/Unix. Manejo de lenguajes como Python, C++, Julia, SQL y CUDA. Aficionado a la electrónica, amante del tenis y escritor en ratos libres.
+Docente de matemáticas, física y computación con más de 4 años de experiencia. Apasionado por la divulgación científica y el trabajo interdisciplinario.
