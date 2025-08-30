@@ -1,14 +1,14 @@
 ---
-title: Senior Detective
-date: 1990 - Present
+title: University Teaching Assistant
+date: 2025 - Current
 url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+location: Facultad de Ciencias, UNAM
+org: Universidad Nacional Autónoma de México
+tags: ["IA Teacher", "Computer Science", "Laboratory", "Teaching"]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+- IA laboratory and theory professor.
+- Notes and notebook creation.
+- Development of IA notes and notebooks for developing projects.
+- Design of projects, exams, and assignments.
+- Assistance in AI projects and research.

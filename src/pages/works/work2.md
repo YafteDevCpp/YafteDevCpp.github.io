@@ -1,22 +1,21 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: Science and Mathematics Teacher
+date: 2020 - 2022
+url: https://www.sectei.cdmx.gob.mx/
+location: Mexico, Mexico City
+org: Secretaría de Educación, Ciencia, Tecnología e Innovación de la CDMX.
 tags:
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+    "Science Teacher",
+    "Astronomy Teacher",
+    "Mathematics Teacher",
+    "Computing Teacher",
+    "Code Teacher",
+    "Robotics Teacher",
   ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Two years of experience teaching Mathematics (Differential and Integral Calculus, Geometry, Algebra), Physics and Computer Science to high school and University students.
+- Specialized tutoring in Physics, Mathematics, and Programming for high school students.
+- Development of science workshops (Physics and Astronomy) aimed at fostering critical thinking.
+- Planning and organization of science fairs.
