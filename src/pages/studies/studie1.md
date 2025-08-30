@@ -1,15 +1,15 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Bachelor in Physics
+location: Facultad de Ciencias
+url: https://www.fciencias.unam.mx/
+institute: Universidad Nacional Autónoma de México
+date: 2019-2024
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Plasma Physics",
+    "Fusion Plasma Physics",
+    "Scientific Computing",
+    "Machine Learning in Science",
+    "Sociophysics and Econophysics",
   ]
 ---

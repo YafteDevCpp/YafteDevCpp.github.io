@@ -6,5 +6,9 @@ location: Mexico, Mexico City
 website: "http://tafutza.hn/kos"
 ---
 
-Físico egresado de la Facultad de Ciencias, UNAM, con experiencia en métodos numéricos y modelado computacional aplicado a la investigación científica, especialmente en fusión nuclear controlada y mecánica de fluidos. Familiarizado con análisis de datos experimentales, automatización tecnológica, y programación de alto rendimiento en entornos Linux/Unix. Manejo de lenguajes como Python, C++, Julia, SQL y CUDA. Aficionado a la electrónica, amante del tenis y escritor en ratos libres.
-Docente de matemáticas, física y computación con más de 4 años de experiencia. Apasionado por la divulgación científica y el trabajo interdisciplinario.
+Mexican physicist graduated from the Science College, UNAM, with experience in numerical methods and
+computational modeling applied to scientific research, especially in controlled nuclear fusion and fluid mechanics.
+Familiar with experimental data analysis, technological automation, and high programming performance in Linux/Unix
+environments. Language management like Python, C++, Julia, SQL and CUDA. Fan of electronics, tennis lover and writer
+in his free time. Mathematics, physics and computing teacher with more than 4 years of experience. Passionate about
+scientific dissemination and interdisciplinary work.

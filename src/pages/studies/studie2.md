@@ -1,8 +1,8 @@
 ---
-title: Advanced SWAT Tactics and Leadership Training
-location: FBI Academy
-url: http://ni.sb/mehanad
-institute: FBI Academy
-date: 1975-1980
-tags: ["Conflict Resolution", "Strategic Planning", "Risk Assessment", "Firearms Training", "Emergency Response"]
+title: Technician Specialized In Mechatronics
+location: Universidad Nacional Autónoma de México
+url: https://www.unam.mx/
+institute: Universidad Nacional Autónoma de México
+date: 2017-2019
+tags: ["Systems Automation", "Robotics ", "Objects Oriented Programming", "Home Automation", "Arduino", "Raspberry Pi"]
 ---
