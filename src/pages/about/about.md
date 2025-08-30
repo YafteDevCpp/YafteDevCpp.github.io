@@ -3,6 +3,7 @@ title: about
 name: "Uriel Yafté Sánchez Almaguer"
 designation: "Plasma Physicist"
 location: Mexico, Mexico City
+pronouns: Lic.
 website: "http://tafutza.hn/kos"
 ---
 
