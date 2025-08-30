@@ -9,6 +9,9 @@ import vercel from "@astrojs/vercel/serverless";
 export default defineConfig({
   site: "https://yaftedevcpp.github.io/",
   integrations: [tailwind(), icon(), compress()],
-  output: "server",
-  adapter: vercel()
+  output: "static",
+
+  //output: "server",
+  //adapter: vercel()
+
 });
