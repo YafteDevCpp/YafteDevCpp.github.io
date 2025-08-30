@@ -7,7 +7,7 @@ import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://YafteDevCpp.github.io"
+  site: "https://YafteDevCpp.github.io",
   integrations: [tailwind(), icon(), compress()],
   output: "server",
   adapter: vercel()
