@@ -1,6 +1,6 @@
 ---
 title: about
-name: "Uriel Yafté Sánchez Almaguer"
+name: "Uriel Yafté Sánchez Almaguer (En Mantenimiento)"
 designation: "Plasma Physicist"
 location: Mexico, Mexico City
 pronouns: Lic.
