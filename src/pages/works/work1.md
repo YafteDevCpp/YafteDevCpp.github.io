@@ -1,7 +1,7 @@
 ---
 title: University Teaching Assistant
 date: 2025 - Current
-url: http://ropibbe.nf/savadru
+url: https://www.fciencias.unam.mx/
 location: Facultad de Ciencias, UNAM
 org: Universidad Nacional Autónoma de México
 tags: ["IA Teacher", "Computer Science", "Laboratory", "Teaching"]

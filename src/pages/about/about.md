@@ -1,7 +1,7 @@
 ---
 title: about
-name: "Uriel Yafté Sánchez Almaguer (En Mantenimiento)"
-designation: "Plasma Physicist"
+name: "BSc Uriel Yafté Sánchez Almaguer (En Mantenimiento)"
+designation: "Plasma and Computing Physicist"
 location: Mexico, Mexico City
 pronouns: Lic.
 website: "http://tafutza.hn/kos"
