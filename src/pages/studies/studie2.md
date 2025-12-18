@@ -1,8 +1,8 @@
 ---
-title: Technician Specialized In Mechatronics
+title: Scientific Computing Bootcamp
 location: Universidad Nacional Autónoma de México
-url: https://www.unam.mx/
-institute: Universidad Nacional Autónoma de México
-date: 2017-2019
-tags: ["Systems Automation", "Robotics ", "Objects Oriented Programming", "Home Automation", "Arduino", "Raspberry Pi"]
+url: https://astronomia.unam.mx/
+institute: Instituto de Astronomía
+date: "2024"
+tags: ["Conflict Resolution", "Strategic Planning", "Risk Assessment", "Firearms Training", "Emergency Response"]
 ---
