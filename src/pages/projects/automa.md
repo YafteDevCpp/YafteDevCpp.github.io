@@ -1,5 +1,5 @@
 ---
-title: Script to Download Data with Cron (For dynamix DB).
+title: Script for Download Data with Cron (For dynamic Databases).
 url: 
 tags: ["jupyter", "bash", "AI", "Neural Network"]
 date: 2024
