@@ -1,6 +1,6 @@
 ---
 title: Technician Specialized In Mechatronics
-location: Universidad Nacional Autónoma de México
+location: CCH Sur, UNAM
 url: https://www.unam.mx/
 institute: Universidad Nacional Autónoma de México
 date: 2017-2019

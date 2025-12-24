@@ -6,15 +6,14 @@ location: Mexico, Mexico City
 org: Instituto Universitario Londres
 tags:
   [
-    "IA Teacher",
-    "Telescope Maintenance",
-    "Astrophotography",
-    "Purchase of Astronomical Material",
-    "Science Communication Development",
+    "Computing Teacher",
+    "Arduino and Raspberry",
+    "Programming Teacher",
+    "Coding",
+    "Robotics",
   ]
 ---
 
-- Six years of experience in the development of workshops and outreach materials focused on Astronomy and General Physics.
-- Maintenance of astronomical instrumentation and development of workshops and conferences.
-- Coordination of science communication activities for diverse audiences.
-- Design, preparation, and teaching of Astronomy courses and workshops.
+- Programming Teacher for an Introduction to Python fundaments and Computational Logic. 
+- Robots Creation with Arduino for a Robotics Introduction.
+- Coding course to Begin with Coding and Programming for basic development.

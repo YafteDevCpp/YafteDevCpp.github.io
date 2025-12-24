@@ -1,6 +1,6 @@
 ---
 title: Scientific Computing Bootcamp
-location: Universidad Nacional Autónoma de México
+location: Instituto de Astronomía, UNAM
 url: https://astronomia.unam.mx/
 institute: Instituto de Astronomía
 date: "2024"

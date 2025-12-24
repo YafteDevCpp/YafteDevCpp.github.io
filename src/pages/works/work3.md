@@ -1,5 +1,5 @@
 ---
-title: Science Communicator
+title: Science Communicator Nibiru Astronomical Society
 date: "2019 - Current"
 url: 
 location: Mexico, Mexico City

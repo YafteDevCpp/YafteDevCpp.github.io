@@ -1,6 +1,6 @@
 ---
 title: Bachelor in Physics
-location: Facultad de Ciencias
+location: Facultad de Ciencias, UNAM
 url: https://www.fciencias.unam.mx/
 institute: Universidad Nacional Autónoma de México
 date: 2019-2024
